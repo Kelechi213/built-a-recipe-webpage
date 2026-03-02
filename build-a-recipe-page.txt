@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>preparing noodles</title>
+    <meta charset="utf-8"/>
+  </head>
+<body>
+    <h1>NOODLES</h1>
+    <P>The recipe to make noodles is as follows:</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>noodles</li>
+      <li>water</li>
+      <li>pot</li>
+      <li>pepper</li>
+      <li>carrot</li>
+      <li>onion</li>
+      <li>tomato</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>put water into the pot and put the noodles</li>
+      <li>boil the noodles</li>
+      <li>slice your vegetables</li>
+      <li>after boiling; add everything together into a pot and stir</li>
+      <li> serve </li>
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="the picture of recipe" />
+</body>
+</html>
+
+** end of index.html **
+
